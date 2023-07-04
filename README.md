@@ -1,5 +1,5 @@
-#Stopwatch App
-Link : [Stopwatch App ](https://poi-stopwatch-app.netlify.app).
+# Stopwatch App
+Link : [https://poi-stopwatch-app.netlify.app](https://poi-stopwatch-app.netlify.app).
 
 # Getting Started with Create React App
 
